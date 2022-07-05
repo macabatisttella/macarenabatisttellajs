@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+body{
+    background-color: rgb(245, 136, 154);
+    font-family: 'Quicksand', sans-serif;
+}
+.titulo{
+    margin-left: 15cm;
+    text-decoration: underline;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(218, 71, 103);
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 25cm;
+    margin-left: 5cm;
+    color: white;
+}
+
+.tarjetatienda{
+    border: 1px solid pink;
+    border-radius: 5px;
+    background-color: white;
+    width: 10cm;
+    height: 9cm;
+    margin-left: 12cm;
+    text-align: center;
+}
